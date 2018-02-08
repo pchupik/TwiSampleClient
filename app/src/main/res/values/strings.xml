@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TwiSampleClient</string>
+    <string name="failed_to_log_in">Failed to log in</string>
+</resources>
